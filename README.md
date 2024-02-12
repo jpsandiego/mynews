@@ -1,17 +1,18 @@
 # mynews
 
 ## tech news
-* news.ycombinator.com
-* arstechnica.com
-* theregister.com
-* darkreading.com
-* bleepingcomputer.com
+* https://news.ycombinator.com
+* https://arstechnica.com
+* https://theregister.com
+* https://darkreading.com
+* https://bleepingcomputer.com
 
 ## security news
-* securityweek.com
-* govinfosecurity.com
-* infosecurity-magazine.com
+* https://securityweek.com
+* https://govinfosecurity.com
+* https://infosecurity-magazine.com
 * https://arstechnica.com/
 * https://isc.sans.edu/
 
 ## other news
+* https://nytimes.com
