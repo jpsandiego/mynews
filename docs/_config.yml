@@ -25,6 +25,8 @@ baseurl: "/mynews" # the subpath of your site, e.g. /blog
 url: "https://jpsandiego.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #github_username:  jpsandiego
 
+markdown: kramdown
+
 # Build settings
 theme: minima
 #plugins:

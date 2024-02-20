@@ -5,17 +5,18 @@
 layout: home
 ---
 
-* [HackerNews](https://news.ycombinator.com)
-* [ARS Technica](https://arstechnica.com)
-* [The Register](https://theregister.com)
-* [Dark Reading](https://darkreading.com)
-* [Bleeping Computer](https://bleepingcomputer.com)
+* [HackerNews](https://news.ycombinator.com){:target="_blank" rel="noopener"}
 
-* [Security Week](https://securityweek.com)
-* [GovInfoSecurity](https://govinfosecurity.com)
-* [InfoSecurity Magazine](https://infosecurity-magazine.com)
-* [SANS ISC](https://isc.sans.edu/)
+* [ARS Technica](https://arstechnica.com){:target="_blank" rel="noopener"}
+* [The Register](https://theregister.com){:target="_blank" rel="noopener"}
+* [Dark Reading](https://darkreading.com){:target="_blank" rel="noopener"}
+* [Bleeping Computer](https://bleepingcomputer.com){:target="_blank" rel="noopener"}
 
-* [NY Times](https://nytimes.com)
+* [Security Week](https://securityweek.com){:target="_blank" rel="noopener"}
+* [GovInfoSecurity](https://govinfosecurity.com){:target="_blank" rel="noopener"}
+* [InfoSecurity Magazine](https://infosecurity-magazine.com){:target="_blank" rel="noopener"}
+* [SANS ISC](https://isc.sans.edu/){:target="_blank" rel="noopener"}
+
+* [NY Times](https://nytimes.com){:target="_blank" rel="noopener"}
 
 
