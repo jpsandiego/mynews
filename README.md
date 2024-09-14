@@ -16,6 +16,11 @@
 
 ## other news
 * https://nytimes.com
+* https://lifehacker.com/
+
+## other random
+* https://www.nytimes.com/wirecutter/
+* https://www.printables.com/
 
 
 
