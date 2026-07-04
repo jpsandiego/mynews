@@ -18,6 +18,11 @@
 * https://nytimes.com
 
 
+New way to run locally:
+```
+BUNDLE_PATH=vendor/bundle bundle exec jekyll serve --host 127.0.0.1 --port 4000 --livereload
+```
+
 
 More info
 https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll

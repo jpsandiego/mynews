@@ -28,9 +28,11 @@ url: "https://jpsandiego.github.io" # the base hostname & protocol for your site
 markdown: kramdown
 
 # Build settings
-theme: minima
-#plugins:
-#  - jekyll-feed
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-gist
 
 # Exclude from processing.
 # The following items will not be processed, by default.
